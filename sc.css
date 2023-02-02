@@ -1,0 +1,27 @@
+#color
+{
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ul
+{
+    color:blue;
+    border: 2px solid yellow;
+    
+}
+ol{
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px dotted red;
+}
+dl{
+    color: coral;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 2PX solid blue;
+}
+div
+{
+    border: 2px solid red;
+    padding: 10px;
+    margin: 10px;
+}
